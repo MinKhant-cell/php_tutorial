@@ -1,3 +1,5 @@
 <?php
 $name = 'Home';
-require('view/index.view.php');
+
+
+require( base_path('view/index.view.php'));

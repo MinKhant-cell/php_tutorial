@@ -1,3 +1,3 @@
 <?php
 $name = 'About';
-require('view/about.view.php');
+require(base_path('view/about.view.php'));
